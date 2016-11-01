@@ -7,6 +7,10 @@ HanLDA 是对 LDA4j 的进一步包装，实现了 LDA 模型的存储和读取�
 - 训练：在训练语料上进行 LDA 模型的训练，并且生成模型文件。
 - 预测：使用训练好的模型文件，推测新文档的主题分布。
 
+### 下载
+
+[HanLDA.jar](https://github.com/jsksxs360/HanLDA/releases/tag/1.0)
+
 ## 如何使用
 
 ```java
