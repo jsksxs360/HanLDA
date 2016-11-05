@@ -9,7 +9,7 @@ HanLDA 是对 LDA4j 的进一步包装，实现了 LDA 模型的存储和读取�
 
 ### 下载
 
-[HanLDA.jar](https://github.com/jsksxs360/HanLDA/releases/tag/1.0)
+[HanLDA.jar](https://github.com/jsksxs360/HanLDA/releases/)
 
 ## 如何使用
 
