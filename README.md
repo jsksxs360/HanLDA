@@ -1,4 +1,6 @@
-#HanLDA
+# HanLDA
+
+**该项目已合并至 [AHANLP](https://github.com/jsksxs360/AHANLP)，从 2021-05-13 起停止维护。**
 
 [LDA4j](https://github.com/hankcs/LDA4j) 是由 [Hankcs](http://www.hankcs.com/) 编写的一个 LDA(Latent Dirichlet Allocation) 的 java 实现版本，其中的 LdaGibbsSampler.java 直接照搬 Gregor Heinrich 的实现，代码非常精炼（国内 yangliuy 和 ansj 的实现也都是从 Gregor Heinrich 派生出来的）。
 
